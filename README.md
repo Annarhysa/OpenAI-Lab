@@ -8,4 +8,6 @@ All in pure Python. No front‑end experience required.
 ## 1) Summarizer App
 This App is built using the OpenAI APIs. Streamlit gives front end look to the dull python code for this summarizer. I have used Davinci-003 engine to summarize the text. The user can also download the text once it's summarized. The text input should be greater than 100 words.
 
+![Alt text](./assets/image.png)
+
 ## 2) Basic ChatBot
