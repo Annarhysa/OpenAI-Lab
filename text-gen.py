@@ -6,7 +6,7 @@ load_dotenv()
 
 
 # Set up your API key
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("api")
 
 
 # Set up the prompt and parameters
