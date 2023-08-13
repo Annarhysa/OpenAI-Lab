@@ -1,5 +1,5 @@
 # Streamlit Apps
-A repository that exhibits my experiments with Streamlit library of Python.\
+A repository that exhibits my experiments with Streamlit and OpenAI library of Python.\
 Streamlit turns data scripts into shareable web apps in minutes.\
 All in pure Python. No front‑end experience required.
 
