@@ -10,7 +10,7 @@ openai.api_key = os.getenv("api")
 
 
 # Set up the prompt and parameters
-prompt = "What is the meaning of life?"
+prompt = "What is One Piece?"
 model = "text-davinci-002"
 temperature = 0.7
 max_tokens = 100
