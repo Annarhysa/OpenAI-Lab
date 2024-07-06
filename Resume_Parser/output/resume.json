@@ -1,0 +1,144 @@
+{
+    "Name": "Annarhysa Albert",
+    "Contact Information": {
+      "Location": "Chennai, India",
+      "Phone": "+91-996-789-1835",
+      "Email": "annarhysa13@gmail.com",
+      "LinkedIn": "https://www.linkedin.com/in/annarhysa-albert-92550918b/",
+      "GitHub": "https://github.com/Annarhysa",
+      "Portfolio": "https://annarhysa.github.io/annarhysas-portfolio.github.io/"
+    },
+    "Work Experience": [
+      {
+        "Position": "Nexus Spring '24 Fellow",
+        "Company": "HyperVerge",
+        "Duration": "Feb 2024 - June 2024",
+        "Location": "Remote",
+        "Responsibilities": [
+          "Worked on planning and designing a pipeline for fine-tuning the Llama 2-7B model, specializing in Python problem-solving."
+        ]
+      },
+      {
+        "Position": "Machine Learning Intern",
+        "Company": "Bornbhukkad",
+        "Duration": "Sep 2023 - April 2024",
+        "Location": "Remote",
+        "Responsibilities": [
+          "Used web scraping techniques and transformers for analyzing food reviews of restaurants in Hyderabad.",
+          "Worked on food engineering techniques for a healthy Menu design."
+        ]
+      },
+      {
+        "Position": "Machine Learning Research Intern",
+        "Company": "GBJ Buzz",
+        "Duration": "Sep 2023 - Dec 2023",
+        "Location": "Remote",
+        "Responsibilities": [
+          "Performed various research strategies to make Saas models for an automated sales pipeline.",
+          "Organized and maintained records of all data collected during research activities."
+        ]
+      },
+      {
+        "Position": "Machine Learning Intern",
+        "Company": "Suvidha Foundation",
+        "Duration": "Aug 2023 - Sep 2023",
+        "Location": "Remote",
+        "Responsibilities": [
+          "Worked on creating an effective summarization algorithm using NLP and Transformers.",
+          "Constructed supervised and unsupervised learning models using Python libraries like Sci-kit-Learn, TensorFlow, and Keras to elevate the main motto of Suvidha through fundraising."
+        ]
+      }
+    ],
+    "Education": {
+      "Degree": "Bachelors of Technology: Artificial Intelligence",
+      "Institution": "SRM Institute of Science and Technology",
+      "Location": "Kattankulathur, India",
+      "Duration": "2021-2025",
+      "CGPA": "9.64/10",
+      "Achievements": "Won Merit-Based Scholarship (AY: 2023-24 and 2024-25)",
+      "Courses": [
+        "OOPs",
+        "DSA",
+        "Deep Learning Techniques",
+        "Machine Learning",
+        "Computer Networks",
+        "GenAI and LLMs",
+        "Web Programming",
+        "Node.js and React.js"
+      ]
+    },
+    "Skills": {
+      "Tech Skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "MySQL",
+        "Git",
+        "MATLAB",
+        "Power BI",
+        "Excel",
+        "HTML",
+        "CSS",
+        "JavaScript (React.js, Node.js)",
+        "C/C++",
+        "MongoDB",
+        "Tableau",
+        "Arduino",
+        "RaspberryPi"
+      ],
+      "Soft Skills": [
+        "Collaborative Leadership",
+        "Strategic Organization",
+        "Efficient Scheduling",
+        "Analytical Insight"
+      ],
+      "Languages": [
+        "English",
+        "Hindi",
+        "Marathi",
+        "Tamil",
+        "German"
+      ]
+    },
+    "Certifications": [
+      "Microsoft Code; Without Barriers ’24 Winner",
+      "Qualified for the third round of SIH ‘23",
+      "Google Analytics Beginners Certification",
+      "Alteryx Foundation Micro-Credential",
+      "MongoDB Developer Certification",
+      "Machine Learning Specialization- Stanford, DeepLearning.AI, Coursera"
+    ],
+    "Projects": [
+      {
+        "Name": "MoodMate",
+        "Description": "A buddy to talk and guide you through your emotional journey. This bot will help you understand your feelings and get the right help.",
+        "Tech Stack": ["JS", "Python", "Cosine Similarity", "HTML", "CSS", "JS"]
+      },
+      {
+        "Name": "RAGfaq",
+        "Description": "Retrieving data from Star Wars Wikipedia page and answering user’s questions regarding Star Wars (A Trivia for the model).",
+        "Tech Stack": ["Python", "Transformers", "HTML", "CSS", "JS"]
+      },
+      {
+        "Name": "CareerWise",
+        "Description": "Built to assist secondary-level students with career choices along with a bot to help parents and students access information easily.",
+        "Tech Stack": ["Dart", "Python", "XGBoost"]
+      },
+      {
+        "Name": "Rare Word Summarizing",
+        "Description": "Identifying only rare words in a text to create a summary.",
+        "Tech Stack": ["ntlk", "TF-IDK"]
+      },
+      {
+        "Name": "Fine tuning LLMS",
+        "Description": "For Python problem-solving by fine-tuning Llama 2-7B model.",
+        "Tech Stack": ["LLMs", "ntlk"]
+      },
+      {
+        "Name": "Market Minder",
+        "Description": "A dashboard for stock price prediction.",
+        "Tech Stack": ["dash", "SVR", "sci-kit-learn", "plotly"]
+      }
+    ]
+  }
+  
